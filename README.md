@@ -83,9 +83,9 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
   <div class="level-label">Diretoria</div>
   <div class="row">
     <div class="card dir"><div class="cn">André Luis de Araujo</div><div class="cr">Redes Lógicas / Links / Provedores</div></div>
-    <div class="card dir"><div class="cn">Bruno G. Escorsin</div><div class="cr">RH / Comercial / SAC / Frotas</div></div>
+    <div class="card dir"><div class="cn">Bruno G. Escorsin</div><div class="cr">RH / Adm/Comercial / SAC / Júridico / Frotas</div></div>
     <div class="card dir"><div class="cn">Orlando R. de Oliveira Jr.</div><div class="cr">Técnicos / NOC / Servidores</div></div>
-    <div class="card dir"><div class="cn">Felipe Marques Scarelli</div><div class="cr">Financeiro / Comercial</div></div>
+    <div class="card dir"><div class="cn">Felipe Marques Scarelli</div><div class="cr">Financeiro / Estoque / Adm/Comercial</div></div>
   </div>
   <div class="connector"><div class="vline"></div><div class="hline"></div><div class="vline"></div></div>
   <div class="level-label">Gerência Geral</div>

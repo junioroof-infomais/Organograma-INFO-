@@ -98,11 +98,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
   <div id="panel-area"></div>
   <hr class="sep">
   <div class="level-label">Reportam diretamente a Júnior e Bruno</div>
-  <div class="level-label" style="margin-top:16px">Reporta diretamente a André</div>
-<div class="direct-row" style="margin-bottom:16px">
-  <div class="direct-card"><div class="cn">Rennan Jose da Silva</div><div class="cr">Supervisor de Redes</div></div>
-</div>
-<div class="direct-row">E aí?
+  <div class="direct-row">
     <div class="direct-card"><div class="cn">Luciana Brenda Garcia</div><div class="cr">Supervisor de Vendas</div></div>
     <div class="direct-card"><div class="cn">Welington Luiz Ferreira</div><div class="cr">Frotas e Auxiliar Geral</div></div>
     <div class="direct-card"><div class="cn">Marco Antonio do Amaral</div><div class="cr">Agendamento</div></div>
@@ -156,13 +152,14 @@ const sups=[
   ]},
   {id:'daiane',name:'Daiane Garcia de Oliveira',role:'Sup. Cobrança',co:'co-resp.: Bruno / Felipe',count:2,groups:[
     {t:'Equipe',m:[
-      {n:'Heloisa Gracioli de Paiva',r:'Aux. de Cobrança',c:'Carlópolis'},E aí, e aí, e aí!
+      {n:'Helen Tawana Deus Oliveira',r:'Aux. de Cobrança',c:'Carlópolis'},
       {n:'Pâmela Conick Ramos',r:'Aux. Cobrança / RH / Financeiro',c:'Carlópolis'},
     ]},
   ]},
   {id:'douglas',name:'Douglas S. Sdrubolini',role:'Sup. de Estoque',co:'co-resp.: Felipe',count:1,groups:[
     {t:'Equipe',m:[{n:'Uziel Bento da Cruz',r:'Aux. de Estoque',c:'Carlópolis'}]},
   ]},
+  {id:'rennan',name:'Rennan Jose da Silva',role:'Sup. de Redes',co:'co-resp.: André',count:0,groups:[]},
 ];
 let active=null;
 const row=document.getElementById('sup-row');
